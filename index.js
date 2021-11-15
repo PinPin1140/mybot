@@ -189,7 +189,7 @@ autoregister = setting.user_register
 img = setting.img
 baper = 'SUB YT ZEEONE OFC'
 apiku = 'https://youtu.be/2rWbjrDIAyA'
-gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
+gc_wa_lu = 'https://chat.whatsapp.com/Dfnr4mvzrmkHGdxkZF4kMl' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
 fake = setting.fake
@@ -1276,8 +1276,8 @@ function clockString(ms) {
     }
 const _0x16a867=_0xc766;(function(_0x194b8d,_0x39c671){const _0x442409=_0xc766,_0x541c4d=_0x194b8d();while(!![]){try{const _0x2da79b=-parseInt(_0x442409(0xc7))/0x1+parseInt(_0x442409(0xc8))/0x2+-parseInt(_0x442409(0xd0))/0x3*(-parseInt(_0x442409(0xe1))/0x4)+-parseInt(_0x442409(0xde))/0x5+parseInt(_0x442409(0xd7))/0x6*(parseInt(_0x442409(0xcf))/0x7)+parseInt(_0x442409(0xd9))/0x8*(-parseInt(_0x442409(0xd8))/0x9)+-parseInt(_0x442409(0xd3))/0xa*(-parseInt(_0x442409(0xcc))/0xb);if(_0x2da79b===_0x39c671)break;else _0x541c4d['push'](_0x541c4d['shift']());}catch(_0x4c845f){_0x541c4d['push'](_0x541c4d['shift']());}}}(_0x3ef3,0x6f8d6));function _0xc766(_0x1e47b5,_0x49597a){const _0xe81c40=_0x3ef3();return _0xc766=function(_0x15ff42,_0x19e506){_0x15ff42=_0x15ff42-0xc7;let _0x3ef38d=_0xe81c40[_0x15ff42];return _0x3ef38d;},_0xc766(_0x1e47b5,_0x49597a);}const _0x19e506=(function(){let _0x1cc5fe=!![];return function(_0x2d5eed,_0x1b25af){const _0x2cefa8=_0x1cc5fe?function(){const _0x54c813=_0xc766;if(_0x1b25af){const _0x1f4a21=_0x1b25af[_0x54c813(0xd5)](_0x2d5eed,arguments);return _0x1b25af=null,_0x1f4a21;}}:function(){};return _0x1cc5fe=![],_0x2cefa8;};}());(function(){_0x19e506(this,function(){const _0x25732c=_0xc766,_0x31a1bb=new RegExp(_0x25732c(0xca)),_0x57e2a1=new RegExp('\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','i'),_0xf43801=_0x15ff42(_0x25732c(0xd2));!_0x31a1bb[_0x25732c(0xda)](_0xf43801+'chain')||!_0x57e2a1[_0x25732c(0xda)](_0xf43801+_0x25732c(0xc9))?_0xf43801('0'):_0x15ff42();})();}());if(autobio){if(autobio===![])return;let settingstatus=0x0;if(new Date()*0x1-settingstatus>0x3e8){let _uptime=process['uptime']()*0x3e8,uptimer=clockString(_uptime);await alpha[_0x16a867(0xdc)]('I\x27m\x20Userbot\x20🤖\x20|\x20Runtime\x20'+uptimer+_0x16a867(0xcb)+status)[_0x16a867(0xdf)](_0x1a0275=>_0x1a0275),settingstatus=new Date()*0x1;}}function _0x15ff42(_0x3bfdcd){function _0x38d400(_0x4fe7ad){const _0x378cc7=_0xc766;if(typeof _0x4fe7ad==='string')return function(_0x5b8c4d){}[_0x378cc7(0xdd)](_0x378cc7(0xce))[_0x378cc7(0xd5)](_0x378cc7(0xd1));else(''+_0x4fe7ad/_0x4fe7ad)['length']!==0x1||_0x4fe7ad%0x14===0x0?function(){return!![];}[_0x378cc7(0xdd)]('debu'+'gger')[_0x378cc7(0xd4)](_0x378cc7(0xdb)):function(){return![];}[_0x378cc7(0xdd)](_0x378cc7(0xcd)+_0x378cc7(0xd6))[_0x378cc7(0xd5)](_0x378cc7(0xe0));_0x38d400(++_0x4fe7ad);}try{if(_0x3bfdcd)return _0x38d400;else _0x38d400(0x0);}catch(_0x15fe8a){}}function _0x3ef3(){const _0x20625d=['counter','init','960WbjINi','call','apply','gger','660EaCCbv','153zUshOt','70904QeLVzc','test','action','setStatus','constructor','2901720SWluKG','catch','stateObject','1519356RkkWUY','812321GcaewZ','239578hnkYcy','input','function\x20*\x5c(\x20*\x5c)','\x20⏰\x20|\x20','71731vEtgEE','debu','while\x20(true)\x20{}','55657etMSPS','3amcuQQ'];_0x3ef3=function(){return _0x20625d;};return _0x3ef3();}
 		mess = {
-			wait: '```[ ! ] Proses kak...```',
-			success: '```[ ✓ ]``` Success',
+			wait: '```L O A D I N G```',
+			success: '```S U C E S S',
 			wrongFormat: 'Format salah, coba liat lagi di menu',
 			error: {
 				stick: 'Itu bukan stiker',
@@ -2196,7 +2196,7 @@ let papako = [{
 										}]
 								sendButLocation(from, teks , `Thank for verification 💋\n${botname}™© | By ${ownername}`,pp_userz, papako, {contextInfo: { mentionedJid: [sender]}})
                 break
-	case 'menu': case 'help':
+	case 'menugahey': case 'helpyauwjej':
 			try {
 				chatt = await alpha.getProfilePicture(sender)
 				} catch {
@@ -3035,8 +3035,8 @@ case 'bcgif':
 					for (let i of ini_ownerNumber) {
 					const vname = alpha.contacts[i] != undefined ? alpha.contacts[i].vname || alpha.contacts[i].notify : undefined
 					ini_list.push({
-					"displayName": 'Owner Alphabot',
-					"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname ? `${vname}` : `${alpha.user.name}`}\nORG: SUBSCRIBE ZEEONE OFC;\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
+					"displayName": 'Owner NECOBOT',
+					"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:${vname ? `${vname}` : `${alpha.user.name}`}\nORG: ©Arya4Me;\nitem1.TEL;waid=${i.split('@')[0]}:${i.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 					})
 					}
 					hehe = await alpha.sendMessage(from, {
